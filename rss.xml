@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Articulate Wording]]></title>
+        <description><![CDATA[Articulate Wording]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 26 Jun 2016 06:14:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[contemplations of a recovering cynic]]></title>
+            <description><![CDATA[<article><h1>contemplations of a recovering cynic</h1><p>My most recent choice was to leave a discipleship and pursue a career. Writing that is seems like a mistake and an easy choice. But looking at it from the perspective of the man I am today, having a job that will get me the experience I need, in process of getting an apartment with a friend, going to an accredited college for the first time at 24.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea7a6e6bd3a6715f0250d4e659a3b32b/noop?input=https%3A%2F%2Fsecure.gravatar.com%2Fblavatar%2Ff3b100a4a26c97c73d07e6f3245933eb%3Fs%3D200%26ts%3D1466921628"></article>]]></description>
+            <link>https://charlesabaker2010.wordpress.com/</link>
+            <guid isPermaLink="false">5914e253-324b-4bf1-aa1e-035cbc4f02b8</guid>
+            <pubDate>Sun, 26 Jun 2016 06:14:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
