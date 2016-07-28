@@ -1,3 +1,15 @@
+typography_spectrum: 0.7698128975462168
+color:
+  brandStrength: 0.8468085
+  lightness: 0.8927523419260979
+  saturation: 0.4281812116969377
+  rhythmicContrast: 0.2747551945503801
+  brandColors:
+    - '#1E1C1D'
+    - '#413C39'
+    - '#8E8E86'
+    - '#6A6A62'
+    - '#000000'
 layout_spectrum: 0.7016452178359032
 name: Articulate Wording
 collections:
@@ -12,16 +24,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.8468085
-  lightness: 0.8927523419260979
-  saturation: 0.4281812116969377
-  rhythmicContrast: 0.2747551945503801
-  brandColors:
-    - '#1E1C1D'
-    - '#413C39'
-    - '#8E8E86'
-    - '#6A6A62'
-    - '#000000'
-typography_spectrum: 0.7698128975462168
 title: Articulate Wording
+description: Where words meet the internet
